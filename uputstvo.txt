@@ -1,0 +1,3 @@
+Pazi da li ima duplikata.
+Pazi da li ima , u imenu ili ceni.
+Pazi da li uploudujes multi sheet excel.
